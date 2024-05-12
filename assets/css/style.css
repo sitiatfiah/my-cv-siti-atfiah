@@ -1,0 +1,53 @@
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.bg-color-dark {
+  background-color: #333132 !important;
+}
+
+.text-color-white {
+  color: #fff !important;
+}
+
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.ball {
+  width: 10px;
+  height: 10px;
+  background-color: #333132;
+  border-radius: 50%;
+}
+
+.start-over-1 {
+  left: -1 !important;
+}
+
+.vertical-line {
+  border-left: 3px solid #333132;
+  height: 100%;
+  position: absolute;
+  left: 3.5px;
+}
+
+.text-list {
+  margin-left: 0.5rem;
+  padding-left: 2rem;
+}
+
+.shadow {
+  box-shadow: 2px 2px;
+}
+
+.radius-page-right {
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.radius-page-left {
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
